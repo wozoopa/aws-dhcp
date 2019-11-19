@@ -1,1 +1,14 @@
-# aws-dhcp
+dhcp
+===
+
+
+Input Variables
+---------------
+
+
+Outputs
+-------
+
+
+Usage
+-----
